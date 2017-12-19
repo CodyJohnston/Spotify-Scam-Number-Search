@@ -1,0 +1,2 @@
+# Spotify-Scam-Number-Search
+This project is aimed at extracting the phone numbers of tech support scammers that are specifically abusing Spotify's SEO to push their scam numbers very high up in the search results. Often times these results on on the front page, sometimes in the 2nd link. This is an issue, so I wanted to make a program that allows you to create a 'block list' or do whatever else you want with these scam phone numbers.
